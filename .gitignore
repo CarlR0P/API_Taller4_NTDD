@@ -134,3 +134,10 @@ dist
 .yarn/build-state.yml
 .yarn/install-state.gz
 .pnp.*
+
+# El entorno env
+.env
+
+# las dependencias de node
+node_modules/
+
